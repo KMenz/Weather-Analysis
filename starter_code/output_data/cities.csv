@@ -1,548 +1,545 @@
 City,Latitude,Longitude,Cloudiness,Humidity,Max Temp,Wind Speed,Country
-guarapari,-20,-40,20,66,87,19,BR
-touros,-5,-35,0,62,85,16,BR
-mar del plata,-46,-67,36,43,63,9,AR
-atuona,-9,-139,0,100,79,10,PF
-pisco,-13,-76,0,30,71,10,PE
-vaini,15,74,44,57,73,4,IN
-saint george,39,22,40,93,64,3,GR
-sagarejo,41,45,90,82,55,9,GE
-rumuruti,0,36,80,96,56,2,KE
-dikson,73,80,80,100,19,18,RU
-concepcion del oro,24,-101,0,52,66,3,MX
-khatanga,71,102,64,66,0,15,RU
-saint-philippe,45,-73,90,97,44,3,CA
-cam ranh,11,109,20,91,75,15,VN
-mataura,-46,168,44,90,36,4,NZ
-brusturi,46,22,44,77,55,2,RO
-conde,-11,-37,0,62,85,10,BR
-sharan,33,68,0,60,29,5,AF
-busselton,-33,115,88,100,59,12,AU
-nanortalik,60,-45,0,100,26,11,GL
-thunder bay,48,-89,20,60,41,8,CA
-chokurdakh,70,147,44,82,10,14,RU
-karasburg,-28,18,0,9,61,5,NA
-georgetown,6,-58,40,74,87,2,GY
-la ronge,55,-105,90,92,28,6,CA
-manyana,-35,150,56,93,66,5,AU
-vernon,50,-119,90,100,42,3,CA
-cherskiy,68,161,76,80,10,3,RU
-vega de alatorre,20,-96,8,60,86,1,MX
-vardo,39,-77,5,64,73,6,US
-kuching,1,110,75,100,77,2,MY
-jamestown,-33,138,36,84,64,3,AU
-rikitea,-23,-134,92,100,70,33,PF
-ushuaia,-54,-68,0,71,53,11,AR
-chuy,-33,-53,0,80,63,18,UY
-kavieng,-2,150,36,100,83,10,PG
-vrangel,42,133,0,100,49,10,RU
-springdale,36,-94,90,93,46,5,US
-helong,25,116,100,98,55,2,CN
-new norfolk,-42,147,75,77,64,8,AU
-longyearbyen,78,15,75,100,32,9,NO
-goma,-1,29,24,100,59,2,CD
-yellowknife,62,-114,90,85,23,4,CA
-komsomolskiy,67,63,92,95,32,14,RU
-aklavik,68,-135,5,83,1,2,CA
-venice,27,-82,1,65,84,16,US
-nemuro,43,145,32,100,48,13,JP
-bambous virieux,-20,57,40,78,77,5,MU
-punta arenas,-53,-70,75,40,51,12,CL
-kapaa,22,-159,75,84,77,10,US
-asosa,10,34,0,93,65,3,ET
-paharpur,32,70,92,100,60,3,PK
-bluff,-23,149,8,86,64,6,AU
-westport,53,-9,20,75,44,5,IE
-kaitangata,-46,169,12,73,40,6,NZ
-tuatapere,-46,167,64,100,46,11,NZ
-tuktoyaktuk,69,-133,20,83,-7,5,CA
-christchurch,-43,172,0,100,37,2,NZ
-cap-aux-meules,47,-61,90,87,44,12,CA
-avarua,-21,-159,40,94,75,4,CK
-arraial do cabo,-22,-42,40,58,87,2,BR
-scarborough,54,0,0,76,50,3,GB
-cabo san lucas,22,-109,20,69,78,8,MX
-hilo,19,-155,20,90,71,5,US
-tiksi,71,128,0,78,-8,5,RU
-pauini,-7,-67,8,43,96,3,BR
-la palma,5,-74,44,84,76,2,CO
-beisfjord,68,17,75,87,42,13,NO
-albany,42,-73,90,89,53,3,US
-hobart,-42,147,75,77,64,8,AU
-bilma,18,12,0,14,73,5,NE
-bethel,60,-161,1,95,24,6,US
-lebu,8,38,0,61,52,5,ET
-ardakan,32,54,0,28,55,9,IR
-deputatskiy,69,139,12,61,-14,2,RU
-voyvozh,62,54,88,88,34,14,RU
-wattegama,7,80,88,97,70,2,LK
-puerto ayora,0,-90,90,61,77,10,EC
-shubarkuduk,49,56,0,83,24,8,KZ
-namibe,-15,12,64,100,74,11,AO
-yulara,-25,130,36,57,75,2,AU
-qianan,44,124,0,76,31,10,CN
-san clemente,33,-117,1,21,69,3,US
-galveston,40,-86,90,100,44,9,US
-ilulissat,69,-51,20,55,6,1,GL
-cibitoke,-2,29,75,65,78,23,BI
-wanning,48,13,0,59,62,11,AT
-itarema,-2,-39,20,49,90,17,BR
-portland,45,-122,90,86,60,10,US
-jalu,29,21,0,49,70,8,LY
-meulaboh,4,96,68,100,79,3,ID
-thompson,55,-97,90,92,23,2,CA
-shiyan,32,110,24,77,44,2,CN
-mao,19,-71,40,66,86,9,DO
-zaterechnyy,44,45,68,67,49,16,RU
-atar,20,-13,0,21,81,7,MR
-torbay,47,-52,90,100,37,14,CA
-cochabamba,-17,-66,75,77,59,6,BO
-solnechnyy,50,136,8,76,23,4,RU
-itaituba,-4,-55,40,56,93,6,BR
-aldan,58,125,92,93,23,3,RU
-noumea,-22,166,40,77,60,3,NC
-butaritari,3,172,88,100,84,8,KI
-saskylakh,71,114,48,61,-2,10,RU
-svetlaya,46,138,0,100,40,7,RU
-faanui,-16,-151,76,100,79,18,PF
-provideniya,64,-173,80,100,39,8,RU
-pringsewu,-5,104,64,96,71,2,ID
-khilok,51,110,64,69,28,9,RU
-hailar,49,119,0,57,37,16,CN
-charters towers,-20,146,88,84,71,10,AU
-lincoln,53,0,20,76,48,5,GB
-taksimo,56,114,68,71,18,3,RU
-port augusta,-32,137,92,50,77,2,AU
-yanam,16,82,24,85,79,8,IN
-ambon,47,-2,0,76,53,3,FR
-necochea,-38,-58,32,80,54,7,AR
-manggar,-2,108,24,100,76,2,ID
-great yarmouth,52,1,90,93,50,13,GB
-mutoko,-17,32,0,37,79,7,ZW
-khoy,38,44,0,89,30,2,IR
-souillac,45,0,0,76,55,8,FR
-isangel,-19,169,48,100,73,17,VU
-hithadhoo,0,73,92,100,77,7,MV
-cape town,-33,18,20,51,62,24,ZA
-ola,59,151,75,100,30,11,RU
-xining,36,101,0,64,20,1,CN
-barrow,-38,-60,64,60,57,4,AR
-jiazi,19,110,0,83,69,2,CN
-upernavik,72,-56,32,100,17,3,GL
-aviles,43,-5,75,62,57,8,ES
-porto velho,-8,-63,40,59,91,3,BR
-carutapera,-1,-46,44,63,87,12,BR
-ribeira grande,38,-28,20,78,71,17,PT
-hermanus,-34,19,0,49,58,10,ZA
-calama,-22,-68,0,7,77,19,CL
-trairi,-3,-39,0,100,80,21,BR
-sindor,62,51,88,98,35,12,RU
-greenwood,32,-101,44,68,52,8,US
-lompoc,34,-120,1,43,64,4,US
-saldanha,41,-6,24,79,47,5,PT
-kerema,-7,145,76,99,73,2,PG
-victoria,5,115,75,94,80,2,BN
-mount isa,-20,139,56,36,80,4,AU
-barcelos,41,-8,75,87,59,8,PT
-polson,47,-114,92,93,42,2,US
-malanje,-9,16,75,83,80,6,AO
-port hardy,50,-127,90,93,50,17,CA
-rudnogorsk,57,103,68,66,20,10,RU
-sisimiut,66,-53,0,100,1,2,GL
-east london,-33,27,20,67,60,14,ZA
-forbes,-33,148,32,37,75,15,AU
-viljoenskroon,-27,26,0,42,61,2,ZA
-nikolskoye,59,30,36,87,44,6,RU
-mahebourg,-20,57,40,78,77,5,MU
-tambo,-24,146,0,76,68,14,AU
-show low,34,-110,1,33,42,8,US
-petropavlovsk-kamchatskiy,53,158,75,100,32,4,RU
-pitimbu,-7,-34,40,55,86,13,BR
-swan hill,-35,143,32,42,71,5,AU
-sao joao da barra,-21,-41,0,52,89,2,BR
-cabra,37,-4,0,55,64,4,ES
-totness,33,-80,75,66,77,14,US
-riyadh,24,46,0,27,73,4,SA
-padang,0,100,92,100,76,3,ID
-rorvik,64,11,0,61,46,17,NO
-castro,-42,-73,92,72,55,2,CL
-moratuwa,6,79,20,94,77,2,LK
-goure,13,10,32,12,80,7,NE
-acuautla,20,-98,75,74,82,6,MX
-tinskoy,56,96,64,50,19,9,RU
-manokwari,0,134,56,100,80,0,ID
-kamiiso,41,140,56,88,42,3,JP
-margate,-43,147,75,77,64,8,AU
-watertown,44,-97,20,73,47,5,US
-cervo,-22,-46,0,57,80,6,BR
-severo-kurilsk,50,156,64,100,39,10,RU
-turayf,31,38,0,23,64,6,SA
-airai,-8,125,0,90,64,1,TL
-arlit,18,7,64,18,85,5,NE
-chimoio,-19,33,20,57,77,13,MZ
-pangnirtung,66,-65,40,72,14,4,CA
-sao filipe,14,-24,8,92,79,14,CV
-bam,29,58,0,59,49,6,IR
-egvekinot,66,-179,92,94,17,3,RU
-santa isabel do rio negro,0,-65,44,77,87,3,BR
-mahon,51,-8,20,70,46,5,IE
-zerbst,51,12,0,93,46,9,DE
-gabriel leyva solano,25,-108,5,64,75,3,MX
-shingu,33,135,0,100,57,12,JP
-cherepovets,59,37,92,94,41,11,RU
-te anau,-45,167,56,81,29,2,NZ
-clyde river,70,-68,75,85,14,20,CA
-juneau,58,-134,90,81,39,4,US
-ponta do sol,-20,-46,24,77,83,6,BR
-ikongo,-21,47,88,94,65,2,MG
-ixtapa,20,-105,90,100,78,3,MX
-berlevag,70,29,75,86,39,9,NO
-qaanaaq,77,-69,0,100,1,9,GL
-vostok,46,135,0,64,14,1,RU
-sarangani,5,125,20,94,84,13,PH
-boa vista,2,-60,40,41,93,11,BR
-norman wells,65,-126,75,85,12,3,CA
-tasiilaq,65,-37,75,64,33,26,GL
-deder,9,41,0,54,65,4,ET
-nioro,13,-15,0,66,87,5,GM
-ust-nera,64,143,64,86,5,2,RU
-cidreira,-30,-50,44,87,69,11,BR
-yaan,7,8,36,56,86,7,NG
-puerto madryn,-42,-65,44,80,52,22,AR
-los llanos de aridane,28,-17,20,69,73,17,ES
-micheweni,-4,39,48,99,79,11,TZ
-narsaq,60,-46,5,48,17,4,GL
-sassandra,4,-6,32,100,79,18,CI
-benemerito de las americas,16,-90,12,70,85,3,MX
-fortuna,38,-1,20,48,64,4,ES
-tezu,27,96,20,83,58,0,IN
-bathsheba,13,-59,40,70,87,21,BB
-ankazobe,-18,47,20,77,69,12,MG
-vila velha,-3,-38,20,58,87,18,BR
-ganzhou,25,114,92,72,61,5,CN
-opoczno,51,20,8,62,57,13,PL
-kwinana,-32,115,75,87,51,1,AU
-palmer,61,-149,20,84,19,3,US
-monduli,-3,36,40,45,84,11,TZ
-bondo,3,23,56,97,70,1,CD
-kendari,-3,122,32,91,74,2,ID
-bethanien,-26,17,0,11,67,7,NA
-columbus,32,-84,75,83,77,18,US
-pevek,69,170,56,100,14,8,RU
-curup,-3,102,48,87,69,1,ID
-senneterre,48,-77,75,80,41,5,CA
-kerman,30,57,0,57,50,4,IR
-huinan,42,126,0,74,29,5,CN
-seoul,37,126,0,81,46,5,KR
-manicore,-5,-61,0,59,91,3,BR
-khunti,23,85,0,83,71,2,IN
-cavalcante,-13,-47,68,79,78,3,BR
-san patricio,-26,-56,12,82,78,6,PY
-vestmanna,62,-7,56,81,42,11,FO
-okhotsk,59,143,0,100,22,12,RU
-tumut,-35,148,92,43,74,8,AU
-gat,14,-16,8,49,90,4,SN
-port alfred,-33,26,80,98,59,11,ZA
-san marcos,14,-91,0,58,87,6,GT
-lotofaga,-13,-171,32,100,83,16,WS
-masunga,-20,27,40,31,87,17,BW
-vieux-habitants,16,-61,8,62,87,11,GP
-severomuysk,56,113,80,77,12,2,RU
-tupanatinga,-8,-37,8,30,91,8,BR
-bredasdorp,-34,20,0,51,62,10,ZA
-la chapelle-sur-erdre,47,-1,0,87,53,4,FR
-strezhevoy,60,77,90,85,17,15,RU
-port elizabeth,39,-74,1,63,73,10,US
-antalaha,-14,50,48,86,75,8,MG
-gornopravdinsk,60,69,92,80,29,12,RU
-ahipara,-35,173,0,88,54,12,NZ
-kloulklubed,7,134,75,88,80,11,PW
-chara,39,22,40,93,64,3,GR
-sabzevar,36,57,0,79,33,2,IR
-chifeng,42,118,0,69,23,4,CN
-fuquay-varina,35,-78,1,69,78,5,US
-constitucion,23,-104,75,63,60,6,MX
-olavarria,-36,-60,76,84,55,4,AR
-valparaiso,41,-87,90,57,51,8,US
-yagodnoye,62,149,68,90,8,2,RU
-sobolevo,54,31,88,95,42,11,RU
-kutum,14,24,0,26,68,8,SD
-grindavik,63,-22,75,100,37,4,IS
-karratha,-20,116,0,63,67,3,AU
-oriximina,-1,-55,8,42,96,3,BR
-kargasok,59,80,0,75,10,5,RU
-shieli,44,66,8,46,27,10,KZ
-pittsburgh,40,-79,90,96,60,7,US
-ossora,59,163,0,100,23,18,RU
-ifanadiana,-21,47,88,94,65,2,MG
-mount gambier,-37,140,32,96,63,8,AU
-tura,25,90,8,88,69,2,IN
-numata,36,139,0,88,28,2,JP
-katsuura,33,134,24,96,51,7,JP
-harper,30,-99,1,50,56,13,US
-siocon,11,124,20,99,82,11,PH
-coos bay,43,-124,90,100,59,4,US
-adelaide,-34,138,75,73,71,3,AU
-oga,8,5,8,65,81,3,NG
-marawi,8,124,8,98,65,1,PH
-palu,0,119,64,98,66,1,ID
-henties bay,-22,14,0,92,61,4,NA
-carai,-17,-41,0,44,90,7,BR
-at-bashi,41,75,20,66,20,3,KG
-broken hill,-31,141,0,40,73,6,AU
-elko,40,-115,40,56,51,13,US
-bassar,9,0,20,55,86,4,TG
-laguna,27,-110,5,64,75,3,MX
-guerrero negro,27,-114,0,45,76,4,MX
-namatanai,-3,152,36,100,83,9,PG
-coquimbo,-29,-71,0,63,66,13,CL
-lasa,34,32,0,68,71,8,CY
-porto walter,-8,-72,56,73,86,2,BR
-carnarvon,-30,22,0,18,53,12,ZA
-taoudenni,22,-3,0,27,72,5,ML
-ancud,-41,-73,88,67,55,2,CL
-manaure,11,-72,40,59,91,13,CO
-yakeshi,49,120,0,56,38,15,CN
-otane,-39,176,8,75,42,12,NZ
-huarmey,-10,-78,20,59,73,4,PE
-anadyr,64,177,75,85,14,8,RU
-asekeyevo,53,52,0,83,25,9,RU
-kodiak,39,-94,1,66,53,3,US
-tottori,35,134,80,100,41,4,JP
-conceicao do araguaia,-8,-49,24,72,90,4,BR
-saint-augustin,44,0,0,76,57,5,FR
-hervey bay,-25,152,0,100,71,9,AU
-townsville,-19,146,40,88,75,10,AU
-alofi,-19,-169,92,83,73,9,NU
-broome,52,1,90,90,50,6,GB
-lavrentiya,65,-170,68,97,39,10,RU
-tanabe,33,135,8,89,50,8,JP
-nyurba,63,118,92,80,23,5,RU
-codrington,-28,153,0,92,57,3,AU
-kieta,-6,155,88,100,76,6,PG
-tual,-5,132,0,100,83,11,ID
+thinadhoo,0,72,88,100,80,12,MV
+mataura,-46,168,24,86,52,6,NZ
+iqaluit,63,-68,20,84,5,17,CA
+barrow,-38,-60,76,45,57,4,AR
+cidreira,-30,-50,24,80,67,10,BR
+busselton,-33,115,92,100,59,9,AU
+xuanhua,40,115,0,69,19,2,CN
+aksarka,66,67,80,89,30,17,RU
+hobart,-42,147,75,77,66,18,AU
+saint-philippe,45,-73,90,87,45,4,CA
+khatanga,71,102,68,79,-1,15,RU
+bonthe,7,-12,56,90,79,1,SL
+atuona,-9,-139,0,100,80,11,PF
+adrar,27,0,0,32,68,9,DZ
+hermanus,-34,19,0,69,52,8,ZA
+saskylakh,71,114,36,65,-4,10,RU
+severo-kurilsk,50,156,68,100,39,9,RU
+wonthaggi,-38,145,100,84,65,3,AU
+port alfred,-33,26,76,93,60,9,ZA
+sao gabriel da cachoeira,0,-67,36,86,85,2,BR
+valdivia,-39,-73,90,76,51,5,CL
+sao joao da barra,-21,-41,40,78,78,5,BR
+kupang,-10,123,0,100,76,6,ID
+lata,30,78,68,72,41,1,IN
+ostrovnoy,68,39,92,97,35,10,RU
+bluff,-23,149,0,75,68,8,AU
+kuytun,54,101,20,65,14,4,RU
+narsaq,60,-46,0,56,14,3,GL
+begunitsy,59,29,90,100,44,2,RU
+aljezur,37,-8,24,100,60,8,PT
+chokurdakh,70,147,56,83,7,13,RU
+cape town,-33,18,0,58,57,9,ZA
+yulara,-25,130,24,64,71,3,AU
+chihuahua,28,-106,20,28,73,9,MX
+san rafael,-34,-68,0,50,70,5,AR
+ca mau,9,105,12,93,78,5,VN
+atar,20,-13,0,38,69,8,MR
+thompson,55,-97,90,86,28,4,CA
+matay,28,30,0,62,60,5,EG
+morondava,-20,44,0,99,71,6,MG
+albany,42,-73,90,86,51,3,US
+mayya,61,130,40,92,19,4,RU
+pedernales,0,-80,24,67,82,11,EC
+baracoa,20,-74,32,100,80,8,CU
+ilmajoki,62,22,75,83,32,3,FI
+rikitea,-23,-134,92,100,70,31,PF
+menongue,-14,17,80,37,76,3,AO
+punta arenas,-53,-70,90,61,50,11,CL
+xining,36,101,0,63,18,0,CN
+airai,-8,125,0,87,62,1,TL
+klaksvik,62,-6,32,80,39,13,FO
+sitka,37,-99,0,36,60,10,US
+bereda,43,-7,75,100,59,8,ES
+qaanaaq,77,-69,0,100,1,11,GL
+tuatapere,-46,167,64,100,49,12,NZ
+mayo,63,-135,90,72,14,6,CA
+filadelfia,-22,-60,88,74,82,8,PY
+ilulissat,69,-51,20,54,3,3,GL
+vardo,39,-77,1,53,71,14,US
+henties bay,-22,14,0,100,59,3,NA
+owensboro,37,-87,90,100,50,5,US
+yellowknife,62,-114,75,73,24,4,CA
+avarua,-21,-159,75,78,78,6,CK
+booue,0,11,36,92,74,3,GA
+vila do maio,15,-23,75,73,77,13,CV
+tabas,33,56,0,22,55,2,IR
+tuktoyaktuk,69,-133,75,76,-4,5,CA
+oriximina,-1,-55,12,43,93,3,BR
+ushuaia,-54,-68,75,30,53,11,AR
+ribeira grande,38,-28,75,83,69,16,PT
+kostomuksha,64,30,8,95,35,7,RU
+pevek,69,170,36,100,12,6,RU
+calabozo,8,-67,36,51,91,11,VE
+mar del plata,-46,-67,64,44,63,8,AR
+nalhati,24,87,0,93,69,3,IN
+constitucion,23,-104,40,18,73,12,MX
+cabo san lucas,22,-109,20,61,84,6,MX
+taoudenni,22,-3,0,46,60,6,ML
+saint george,39,22,20,93,59,2,GR
+america dourada,-11,-41,0,39,82,8,BR
+maraba,-5,-49,40,62,87,4,BR
+peterborough,52,0,0,93,42,10,GB
+nome,30,-94,40,53,65,16,US
+butaritari,3,172,56,100,84,8,KI
+kodiak,39,-94,40,34,60,3,US
+butte,46,-112,40,62,48,9,US
+kenai,60,-151,1,77,26,3,US
+castro,-42,-73,92,85,51,1,CL
+carnarvon,-30,22,0,26,45,11,ZA
+dickinson,46,-102,90,51,48,14,US
+tulsipur,27,82,0,69,61,3,IN
+faanui,-16,-151,88,100,78,16,PF
+arraial do cabo,-22,-42,75,52,89,16,BR
+mount gambier,-37,140,32,92,65,9,AU
+burghausen,48,12,0,93,42,3,DE
+goderich,43,-81,92,97,47,4,CA
+bredasdorp,-34,20,48,66,55,5,ZA
+mutis,6,-77,92,100,77,8,CO
+sokyryany,48,27,12,86,50,12,UA
+sawakin,19,37,0,88,78,8,SD
+sao filipe,14,-24,20,94,78,14,CV
+port elizabeth,39,-74,1,67,71,16,US
+half moon bay,37,-122,75,38,82,5,US
+norman wells,65,-126,20,85,17,3,CA
+tasiilaq,65,-37,92,64,33,21,GL
+bethel,60,-161,1,100,26,4,US
+can tho,10,105,8,91,75,2,VN
+upernavik,72,-56,36,100,18,4,GL
+torbay,47,-52,75,86,37,6,CA
+carutapera,-1,-46,76,72,83,12,BR
+licata,37,13,0,73,69,12,IT
+the valley,18,-63,75,69,84,9,AI
+mae hong son,19,97,0,87,62,1,MM
+mahebourg,-20,57,20,83,75,3,MU
+hilo,19,-155,20,67,82,9,US
+puerto ayora,0,-90,40,57,80,9,EC
+vila velha,-3,-38,0,74,80,10,BR
+chenzhou,25,113,64,67,50,3,CN
+mahibadhoo,3,72,80,100,81,6,MV
+namibe,-15,12,0,100,74,10,AO
+georgetown,6,-58,40,83,82,6,GY
+hasaki,35,140,20,87,44,5,JP
+namtsy,62,129,88,86,13,7,RU
+nikolskoye,59,30,90,100,44,2,RU
+malpur,23,73,0,61,71,4,IN
+indian head,50,-103,20,52,45,10,CA
+kholtoson,50,103,88,77,14,7,RU
+pisco,-13,-76,0,30,71,6,PE
+san jose,15,120,64,98,70,1,PH
+haines junction,60,-137,32,94,10,2,CA
+macheng,31,115,20,87,40,2,CN
+riyadh,24,46,0,32,66,3,SA
+xai-xai,-25,33,92,100,68,18,MZ
+kapaa,22,-159,40,71,84,12,US
+dryden,49,-92,90,74,30,4,CA
+lovozero,68,35,80,96,32,5,RU
+tessalit,20,1,0,41,74,7,ML
+hithadhoo,0,73,92,100,78,11,MV
+naze,5,7,75,94,78,2,NG
+yar-sale,66,70,92,94,29,17,RU
+ahipara,-35,173,0,75,60,14,NZ
+rudnogorsk,57,103,68,71,20,10,RU
+new norfolk,-42,147,75,82,66,16,AU
+husavik,50,-96,68,97,37,6,CA
+la ronge,55,-105,90,79,28,5,CA
+lorengau,-2,147,76,100,84,8,PG
+kavieng,-2,150,12,100,84,10,PG
+lakota,48,-98,90,86,39,12,US
+noumea,-22,166,75,44,75,17,NC
+nanortalik,60,-45,0,100,23,10,GL
+abu zabad,12,29,44,38,75,6,SD
+borovskoy,53,64,20,82,21,12,KZ
+galesburg,40,-90,90,63,51,6,US
+lavrentiya,65,-170,92,99,39,10,RU
+xam nua,20,104,8,79,49,1,LA
+loukhi,66,33,92,86,39,8,RU
+antsohihy,-14,47,20,99,70,2,MG
+rognan,67,15,0,61,46,25,NO
+jamestown,-33,138,12,72,69,2,AU
+mandalgovi,45,106,56,76,28,3,MN
+petropavlovsk-kamchatskiy,53,158,40,92,28,6,RU
+hun,50,4,75,87,50,12,BE
+avera,33,-82,90,94,80,11,US
+dauphin,51,-100,92,99,34,3,CA
+assiniboia,49,-105,88,91,36,17,CA
+helong,25,116,100,99,54,2,CN
+lompoc,34,-120,1,11,86,11,US
+rawson,-43,-65,48,46,59,20,AR
+nordhausen,51,10,0,87,42,10,DE
+tefe,-3,-64,40,83,82,4,BR
+longyearbyen,78,15,75,100,32,10,NO
+eslov,55,13,48,100,48,3,SE
+hamilton,32,-64,40,60,71,6,BM
+shingu,33,135,24,100,58,14,JP
+saint-joseph,43,6,92,93,55,4,FR
+muramvya,-3,29,64,94,58,2,BI
+kibara,-2,33,75,88,71,11,TZ
+sidney,47,-104,90,58,46,26,US
+whitehorse,60,-135,75,78,15,9,CA
+guangyuan,32,105,36,83,45,2,CN
+del rio,29,-100,1,48,69,6,US
+dikson,73,80,68,100,18,16,RU
+esperance,10,-61,20,78,82,9,TT
+lasa,34,32,0,67,62,2,CY
+miass,55,60,12,77,28,13,RU
+tarija,-21,-64,90,68,68,6,BO
+lagoa,37,-8,0,77,59,6,PT
+kepno,51,17,92,54,61,14,PL
+krasnovishersk,60,57,92,92,32,13,RU
+pravda,43,25,80,100,50,1,BG
+gat,14,-16,8,59,89,5,SN
+mehamn,71,27,75,80,37,9,NO
+traiguen,-38,-72,92,74,55,5,CL
+lagos,6,3,20,88,80,2,NG
+hambantota,6,81,92,100,76,3,LK
+san lorenzo,-25,-57,90,83,75,5,PY
+east london,-33,27,56,100,61,16,ZA
+longjiang,47,123,32,65,36,10,CN
+san cristobal,0,-78,75,72,59,17,EC
+van buren,47,-67,1,73,42,5,US
+kashary,49,41,0,83,32,9,RU
+lebu,8,38,0,69,46,5,ET
+vaini,15,74,12,65,71,5,IN
+srednekolymsk,67,153,32,87,10,2,RU
+placido de castro,-10,-67,24,45,94,3,BR
+sinnamary,5,-52,44,93,82,10,GF
+kaohsiung,22,120,75,83,71,2,TW
+durusu,37,40,0,93,53,5,TR
+tete,-16,33,0,45,79,4,MZ
+clyde river,70,-68,40,84,8,17,CA
+yerbogachen,61,108,76,60,19,14,RU
+macrohon,10,124,8,89,79,7,PH
+sokoni,-12,28,32,46,71,6,CD
+port hedland,-20,118,0,100,71,3,AU
+bathsheba,13,-59,20,66,84,18,BB
+iquique,-20,-70,75,72,66,14,CL
+nizhnyaya omka,55,74,64,84,21,9,RU
+buraydah,26,43,75,87,60,8,SA
+mananjary,-19,46,48,55,59,2,MG
+cayenne,4,-52,75,88,77,2,GF
+praia da vitoria,38,-27,20,82,68,22,PT
+victoria,5,115,75,94,78,1,BN
+maldonado,-34,-54,75,58,55,10,UY
+bambous virieux,-20,57,20,83,75,3,MU
+svetlogorsk,53,59,40,73,32,17,RU
+shihezi,44,86,44,90,21,2,CN
+dingzhou,38,115,0,86,41,4,CN
+shar,7,8,20,70,81,12,NG
+porto novo,-23,-45,40,73,71,5,BR
+provideniya,64,-173,90,100,37,2,RU
+chepareria,1,35,0,93,53,1,KE
+cairns,-16,145,40,78,78,8,AU
+bowen,-20,148,90,61,78,16,AU
+launceston,-41,147,75,93,59,16,AU
+bara,10,10,0,47,70,4,NG
+cap malheureux,-19,57,20,83,75,3,MU
+bintulu,3,113,75,94,75,4,MY
+dzhebariki-khaya,62,135,56,89,11,2,RU
+leona vicario,20,-87,40,70,86,10,MX
+san patricio,-26,-56,0,80,76,5,PY
+ponta do sol,-20,-46,24,86,73,4,BR
+saldanha,41,-6,20,93,41,4,PT
+isangel,-19,169,68,100,73,19,VU
+severodvinsk,64,39,90,100,41,15,RU
+rijeka,45,14,90,88,64,8,HR
+maunabo,18,-65,40,77,82,10,PR
+lafia,8,8,8,75,78,10,NG
+oranjemund,-28,16,8,91,59,26,ZA
+mao,19,-71,40,55,87,13,DO
+novoagansk,61,76,92,79,21,12,RU
+teahupoo,-17,-149,20,62,86,8,PF
+makungu,-8,35,64,86,66,2,TZ
+dong xoai,11,106,12,89,70,1,VN
+bartica,6,-58,40,83,82,6,GY
+jiquipilas,16,-93,0,71,81,7,MX
+quatre cocos,-20,57,20,83,75,3,MU
+byron bay,-28,153,90,56,73,12,AU
+luderitz,-26,15,0,55,60,11,NA
+acapulco,16,-99,75,74,86,11,MX
+chuy,-33,-53,0,75,59,17,UY
+tadine,-21,167,0,98,73,21,NC
+larap,14,122,68,94,82,10,PH
+bundaberg,-24,152,0,97,74,12,AU
+ende,-8,121,0,100,80,3,ID
+rio gallegos,-51,-69,0,15,60,16,AR
+nusaybin,37,41,0,54,53,11,TR
+suzaka,36,138,8,74,20,1,JP
+borovoy,63,52,92,95,36,14,RU
+xianyang,34,108,0,57,51,8,CN
+jacareacanga,-6,-57,0,59,91,2,BR
+pindiga,9,10,0,47,70,4,NG
+micheweni,-4,39,88,100,79,7,TZ
+mogadishu,2,45,8,97,80,14,SO
+maniitsoq,65,-52,8,100,13,6,GL
+sioux lookout,50,-91,90,80,32,2,CA
+machado,-21,-45,64,93,68,5,BR
+marawi,8,124,0,96,63,1,PH
+kirakira,-10,161,56,100,79,16,SB
+geraldton,49,-86,90,69,35,4,CA
+kruisfontein,-34,24,88,90,58,2,ZA
+zhanaozen,43,52,0,70,29,9,KZ
+ucluelet,48,-125,90,100,55,3,CA
+pacific grove,36,-121,1,24,84,5,US
+eskisehir,39,30,0,81,42,3,TR
+qaqortoq,60,-46,0,56,14,3,GL
+kaitangata,-46,169,36,77,52,5,NZ
+mattru,7,-11,76,93,77,2,SL
+boueni,-12,45,75,83,78,9,YT
+wanning,48,13,32,81,50,4,AT
+kutum,14,24,0,30,64,9,SD
+kotido,3,34,0,62,66,7,UG
+san quintin,17,120,20,100,75,2,PH
+smithers,54,-127,90,88,32,4,CA
+pangkalanbuun,-2,111,92,99,72,1,ID
+marsa matruh,31,27,40,73,73,10,EG
+pishin,30,67,12,85,27,2,PK
+te anau,-45,167,76,87,44,4,NZ
+brasilia de minas,-16,-44,12,61,79,3,BR
+nova soure,-11,-38,0,35,84,11,BR
 leningradskiy,69,178,88,100,21,14,RU
-trelew,-43,-65,0,46,60,18,AR
-lang son,21,106,0,58,55,5,VN
-matamoros,25,-97,75,73,71,9,US
-mathathane,-22,28,64,32,82,16,BW
-salalah,17,54,20,65,82,3,OM
-missao velha,-7,-39,8,32,93,4,BR
-muravlenko,63,74,92,83,22,22,RU
-aleksandrovsk,59,57,92,89,28,12,RU
-dzilam gonzalez,21,-88,0,50,91,7,MX
-clarence town,-32,151,24,88,71,4,AU
-cayenne,4,-52,75,59,91,11,GF
-bakchar,57,82,0,74,6,5,RU
-husavik,50,-96,48,100,35,7,CA
-kapit,2,112,64,99,73,1,MY
-comodoro rivadavia,-45,-67,20,31,64,16,AR
-ornskoldsvik,63,18,0,100,33,8,SE
-villacarrillo,38,-3,92,97,45,2,ES
-smithers,54,-127,90,93,33,6,CA
-nome,30,-94,75,68,63,13,US
-pangkalanbuun,-2,111,92,99,72,5,ID
-daokou,35,105,0,92,40,16,CN
-okaihau,-35,173,0,73,49,8,NZ
-urengoy,65,78,88,82,14,22,RU
-ouadda,8,22,56,73,76,4,CF
-heiligenhafen,54,10,0,93,46,4,DE
-meadow lake,54,-108,90,86,33,10,CA
-evensk,61,159,12,100,22,14,RU
-varna,43,27,75,87,60,9,BG
-usinsk,66,57,92,97,36,17,RU
-maniitsoq,65,-52,0,100,14,6,GL
-nea karvali,40,24,20,88,64,3,GR
-baghdad,33,44,0,33,71,3,IQ
-talara,-4,-81,0,290,62,11,PE
-esperance,10,-61,100,76,84,7,TT
-cabedelo,-6,-34,40,55,86,13,BR
-raahe,64,24,0,93,37,5,FI
-eureka,40,-124,1,100,53,4,US
-lagos,6,3,75,78,82,3,NG
-lata,30,78,68,71,41,1,IN
-north bend,43,-124,90,100,59,4,US
-gushikawa,26,127,1,70,71,10,JP
-shumskiy,54,99,8,52,14,5,RU
-derzhavinsk,51,66,80,81,27,4,KZ
-kruisfontein,-34,24,80,86,59,7,ZA
-hambantota,6,81,88,100,76,4,LK
-gizo,31,34,0,17,82,6,IL
-sorong,0,131,48,100,80,5,ID
-cururupu,-1,-44,32,54,90,13,BR
-kisangani,0,25,48,89,77,3,CD
-south lake tahoe,38,-119,1,45,48,3,US
-maldonado,-34,-54,75,51,60,14,UY
-beloha,-25,45,0,50,76,6,MG
-de-kastri,51,140,0,100,36,11,RU
-atambua,-9,124,0,100,76,5,ID
-lagoa,37,-8,20,68,64,10,PT
-larsnes,62,5,75,57,53,10,NO
-acapulco,16,-99,5,74,84,7,MX
-yueyang,29,113,8,71,52,5,CN
-oyon,-10,-76,56,53,58,1,PE
-xinxiang,35,113,0,75,40,2,CN
-san rafael del sur,11,-86,20,66,86,6,NI
-intipuca,13,-88,8,90,85,4,SV
-doha,25,51,20,58,82,4,QA
-west plains,36,-91,90,89,46,8,US
-kontagora,10,5,0,66,78,3,NG
-a coruna,43,-8,75,87,55,16,ES
-waingapu,-9,120,24,95,73,3,ID
-izumo,35,132,20,81,44,4,JP
-komatsu,36,136,40,87,48,5,JP
-port-gentil,0,8,75,83,80,12,GA
-port macquarie,-31,152,40,88,66,8,AU
-klaksvik,62,-6,92,81,42,10,FO
-chicama,-7,-79,20,77,68,13,PE
-las vegas,36,-115,1,14,62,10,US
-shebunino,57,40,92,97,38,11,RU
-casper,42,-106,90,50,39,16,US
-hatillo,18,-66,1,89,86,12,PR
-tevaitoa,-16,-151,92,100,77,17,PF
-hami,42,93,88,81,34,4,CN
-lexington,38,-84,90,88,64,23,US
-alyangula,-13,136,0,100,82,7,AU
-coihaique,-45,-72,40,36,59,10,CL
-rafraf,37,10,20,69,73,8,TN
-naguabo,18,-65,40,69,86,11,PR
-baiyin,36,104,0,74,33,6,CN
-nishihara,35,139,1,76,57,2,JP
-high level,58,-117,90,85,23,4,CA
-nipawin,53,-104,90,92,28,13,CA
-talcahuano,-36,-73,75,66,55,4,CL
-toora-khem,52,96,44,70,4,3,RU
-muros,42,-9,75,100,50,9,ES
-batticaloa,7,81,76,100,76,5,LK
-verkhnevilyuysk,63,120,92,82,18,4,RU
-mama,20,-89,75,62,86,27,MX
-bonavista,48,-53,44,100,40,10,CA
-zhangjiakou,40,114,0,71,22,2,CN
-artyom,43,132,0,92,28,8,RU
-saint-paul,45,1,90,81,51,3,FR
-grand gaube,-20,57,40,78,77,5,MU
-almaznyy,48,40,0,72,39,12,RU
-mehamn,71,27,75,86,39,3,NO
-rio gallegos,-51,-69,0,25,60,5,AR
-altay,47,88,0,52,-8,2,CN
-pochutla,15,-96,20,62,84,12,MX
-kang,-23,22,0,11,78,14,BW
-yuci,37,112,8,77,46,6,CN
-cocorit,27,-109,5,64,75,3,MX
-tilichiki,60,166,36,82,3,3,RU
-ostrovnoy,68,39,88,96,36,12,RU
-najran,17,44,20,36,75,4,SA
-mulege,26,-111,0,46,77,6,MX
-carmen,7,124,36,96,71,2,PH
-hamilton,32,-64,40,49,73,6,BM
-inhambane,-23,35,20,78,75,7,MZ
-sechura,-5,-80,0,75,75,12,PE
-poum,41,20,24,86,53,1,MK
-xuddur,4,43,0,47,76,7,SO
-nara,34,135,20,71,57,11,JP
-cherkasskoye,52,47,0,78,18,3,RU
-kipushi,-11,27,88,62,75,2,CD
-shahkot,31,75,76,95,63,11,IN
-eldorado,24,-107,5,69,78,5,MX
-kiama,-34,150,20,93,66,5,AU
-shimoda,34,138,92,100,59,16,JP
-zhigansk,66,123,56,78,7,2,RU
-alice springs,-23,133,64,69,75,4,AU
-mubende,0,31,8,79,68,3,UG
-santa rosalia,38,13,20,68,71,4,IT
-leninogorsk,54,52,36,67,30,9,RU
-mildura,-34,142,32,31,77,11,AU
-bilibino,68,166,56,82,2,2,RU
-shanghai,31,121,0,66,60,4,CN
-haapsalu,58,23,90,93,46,8,EE
-ratnagiri,16,73,24,87,85,8,IN
-sur,22,59,0,100,79,9,OM
-okha,53,142,0,78,35,16,RU
-buala,-8,159,92,100,76,12,SB
-almeirim,39,-8,20,67,64,5,PT
-muli,22,71,0,60,73,5,IN
-ferrieres,50,5,20,81,50,9,BE
-robstown,27,-97,1,45,69,12,US
-goderich,43,-81,92,100,47,3,CA
-apozol,21,-102,68,58,71,4,MX
-brae,60,-1,20,93,44,5,GB
-slave lake,55,-114,90,92,30,5,CA
-dawei,14,98,0,54,75,4,MM
-marshfield,42,-70,20,64,69,4,US
-dangriga,16,-88,75,79,86,8,BZ
-faya,18,42,40,77,68,9,SA
-la tuque,47,-72,92,78,42,4,CA
-rivera,-30,-55,0,48,73,12,UY
-kahului,20,-156,75,93,75,7,US
-vila franca do campo,37,-25,20,68,68,9,PT
-auki,12,6,0,24,78,6,NG
-angoche,-16,39,0,100,78,17,MZ
-pascagoula,30,-88,75,86,69,4,US
-chishtian mandi,29,72,48,82,70,11,PK
-port-cartier,50,-66,90,93,35,6,CA
-norman,35,-97,90,66,53,8,US
-yar-sale,66,70,92,95,26,16,RU
-waki,34,132,75,65,51,6,JP
-fairbanks,64,-147,1,87,6,4,US
-port lincoln,-34,135,20,88,64,9,AU
-iqaluit,63,-68,75,92,5,13,CA
-caravelas,-17,-39,0,97,79,16,BR
-zaoyang,32,112,0,77,45,3,CN
-hasaki,35,140,20,81,48,8,JP
-bosobolo,4,19,20,93,72,4,CD
-vanimo,-2,141,20,100,83,14,PG
-aqtobe,50,57,0,63,28,8,KZ
-naze,5,7,75,70,86,6,NG
-springbok,-29,17,12,12,62,7,ZA
-williston,48,-103,1,58,46,9,US
-ostersund,63,14,0,100,35,11,SE
-kodino,63,39,92,90,42,12,RU
-murdochville,48,-65,64,77,39,12,CA
-maumere,-8,122,0,100,80,5,ID
-birjand,32,59,0,39,46,6,IR
-palakkodu,12,78,92,100,68,6,IN
-chapais,49,-74,90,100,33,8,CA
-esfarayen,37,57,40,70,48,6,IR
-erdaojiang,41,126,0,65,19,2,CN
-dingle,11,122,32,99,75,6,PH
-khon buri,14,102,0,51,67,5,TH
-buchanan,5,-10,40,74,84,5,LR
-abeche,13,20,0,51,74,2,TD
-belaya gora,68,146,80,78,6,4,RU
-banjar,-7,108,100,97,71,2,ID
-amuntai,-2,115,76,98,73,0,ID
-bemidji,47,-94,90,70,37,3,US
-krasnogorsk,55,37,90,100,39,8,RU
-ilo,-17,-71,8,79,68,4,PE
-yenagoa,4,6,88,91,77,10,NG
-kano,11,8,0,21,91,6,NG
-alihe,50,123,0,69,25,4,CN
-gazanjyk,39,55,0,52,40,11,TM
-nchelenge,-9,28,68,82,72,4,ZM
-altamira,-3,-52,48,72,87,4,BR
-murmashi,68,32,75,93,35,4,RU
-whitehorse,60,-135,90,92,14,5,CA
-zhanaozen,43,52,0,49,34,11,KZ
-caconda,-13,15,24,74,65,4,AO
-porbandar,21,69,0,78,79,8,IN
+shimoda,34,138,75,87,51,2,JP
+jumla,29,82,0,97,22,1,NP
+dubbo,-32,148,44,36,78,26,AU
+salalah,17,54,75,74,78,3,OM
+tiksi,71,128,0,65,-8,8,RU
+broken hill,-31,141,8,33,80,8,AU
+ossora,59,163,24,100,24,17,RU
+erenhot,43,111,0,75,29,11,CN
+takaka,-40,172,0,84,56,2,NZ
+rodrigues alves,-7,-72,40,74,84,3,BR
+nelson bay,-32,152,0,39,82,8,AU
+bastia,44,8,40,71,57,4,IT
+faya,18,42,0,54,59,7,SA
+nordhorn,52,7,56,100,48,5,DE
+caravelas,-17,-39,0,96,79,16,BR
+ha giang,22,104,0,74,50,2,VN
+paamiut,61,-49,0,100,28,19,GL
+sibu,2,111,75,94,77,3,MY
+alem paraiba,-21,-42,20,97,71,8,BR
+ugoofaaru,5,73,0,100,82,6,MV
+labuan,5,115,75,94,78,1,BN
+kefamenanu,-9,124,0,93,61,1,ID
+carmen,7,124,8,95,70,1,PH
+alexander city,32,-85,40,100,64,8,US
+axim,4,-2,24,99,81,12,GH
+souillac,45,0,92,93,51,9,FR
+jeremoabo,-10,-38,0,33,86,10,BR
+khvoynaya,58,34,92,99,41,6,RU
+katsuura,33,134,75,76,50,6,JP
+okato,-39,173,0,94,56,4,NZ
+qandala,11,49,0,100,60,3,SO
+tura,25,90,56,95,66,5,IN
+trinidad,-33,-56,0,40,66,9,UY
+cherskiy,68,161,68,88,10,3,RU
+guerrero negro,27,-114,0,41,80,10,MX
+codrington,-28,153,0,87,64,3,AU
+dosso,13,3,0,60,77,2,NE
+cowansville,45,-72,90,87,45,1,CA
+ponta delgada,37,-25,20,72,68,12,PT
+akureyri,65,-18,75,88,32,1,IS
+granja,-3,-40,0,52,86,16,BR
+chillicothe,39,-82,90,100,65,3,US
+vostok,46,135,0,67,13,1,RU
+adeje,5,5,48,94,76,7,NG
+broome,52,1,0,87,44,11,GB
+alofi,-19,-169,75,65,80,16,NU
+monster,52,4,75,93,53,9,NL
+ondjiva,-17,15,0,35,78,13,AO
+chara,39,22,20,93,59,2,GR
+komsomolskiy,67,63,92,96,31,14,RU
+berlevag,70,29,75,100,37,5,NO
+satana,20,74,20,63,73,5,IN
+praia,-20,-43,90,88,75,9,BR
+pochutla,15,-96,40,74,86,17,MX
+ekibastuz,51,75,8,85,18,11,KZ
+peniche,39,-9,75,93,57,2,PT
+tagusao,9,117,8,100,77,3,PH
+puerto escondido,15,-97,40,70,86,9,MX
+fortuna,38,-1,0,71,53,9,ES
+saint-pierre,48,4,75,100,50,13,FR
+tisul,55,88,68,88,14,3,RU
+chulman,56,124,88,94,26,4,RU
+labuhan,-2,115,36,96,73,1,ID
+camacha,33,-16,40,72,68,11,PT
+laguna,27,-110,75,30,84,4,MX
+padang,0,100,76,100,78,0,ID
+sisimiut,66,-53,0,100,-6,2,GL
+kloulklubed,7,134,90,94,77,4,PW
+mtwara,-10,40,88,100,75,6,TZ
+tazovskiy,67,78,88,86,15,22,RU
+ketchikan,55,-131,90,89,48,18,US
+houma,35,111,0,69,40,4,CN
+marienburg,52,9,40,81,50,4,DE
+kosh-agach,49,88,0,65,-9,0,RU
+harper,30,-99,1,36,64,8,US
+inuvik,68,-133,20,84,6,4,CA
+nyurba,63,118,80,86,23,7,RU
+wadi maliz,36,8,40,93,60,2,TN
+minna,9,6,8,75,72,4,NG
+visby,57,18,90,93,50,17,SE
+kanniyakumari,8,77,80,100,81,8,IN
+pitimbu,-7,-34,20,78,78,10,BR
+martapura,-3,114,20,100,76,3,ID
+filimonovo,54,39,0,89,31,10,RU
+beidao,34,105,56,75,49,13,CN
+gympie,-26,152,12,77,65,2,AU
+zhigansk,66,123,56,76,7,3,RU
+kahului,20,-156,75,78,86,9,US
+san andres,13,122,48,100,81,7,PH
+coquimbo,-29,-71,20,72,60,10,CL
+seddon,-41,174,0,88,54,1,NZ
+saint-augustin,44,0,92,93,53,5,FR
+vila franca do campo,37,-25,20,72,68,12,PT
+srandakan,-7,110,92,93,73,3,ID
+eyl,7,49,0,100,76,12,SO
+naryan-mar,67,53,92,97,33,9,RU
+plover,44,-89,1,42,50,4,US
+seminole,32,-102,40,33,60,12,US
+laela,-8,32,56,90,62,1,TZ
+elat,2,11,68,99,68,2,CM
+chimbote,-9,-78,20,73,68,9,PE
+soyo,-6,12,0,90,75,3,AO
+madison heights,42,-83,90,93,46,13,US
+synya,65,58,92,97,35,11,RU
+batagay,67,134,12,62,-13,2,RU
+westport,53,-9,12,100,37,5,IE
+oxilithos,38,24,40,93,62,9,GR
+kristinehamn,59,14,0,87,44,5,SE
+kaeo,-35,173,0,53,63,11,NZ
+puerto palomas,31,-107,1,16,68,10,US
+karachi,24,67,0,37,71,7,PK
+grand gaube,-20,57,20,83,75,3,MU
+singapore,1,103,40,94,78,6,MY
+tricase,39,18,40,72,68,5,IT
+abay,49,72,0,91,3,2,KZ
+sandviken,60,16,64,100,38,5,SE
+manta,45,24,36,83,52,5,RO
+muravlenko,63,74,92,89,26,16,RU
+touros,-5,-35,12,81,79,13,BR
+manokwari,0,134,24,100,80,1,ID
+gimli,50,-96,68,97,37,6,CA
+ballina,54,-9,0,100,33,5,IE
+benguela,-12,13,0,100,74,3,AO
+ulu-telyak,54,56,92,81,28,8,RU
+miandrivazo,-19,45,20,72,66,3,MG
+bhakkar,31,71,92,97,63,9,PK
+egvekinot,66,-179,92,91,16,3,RU
+inzhavino,52,42,0,80,22,8,RU
+charlestown,41,-71,1,86,64,5,US
+ferme-neuve,46,-75,92,88,41,2,CA
+guanica,17,-66,40,98,82,9,PR
+palana,59,159,56,82,9,2,RU
+dharchula,29,80,68,67,40,1,IN
 hirara,24,125,92,100,76,23,JP
-kupang,-10,123,0,100,77,7,ID
-taitung,22,121,92,100,68,20,TW
-shaunavon,49,-108,88,77,35,21,CA
-cloquet,46,-92,75,59,39,4,US
-makakilo city,21,-158,75,100,77,4,US
-northam,51,-4,40,76,48,8,GB
-beringovskiy,63,179,88,100,33,1,RU
-matara,-13,-72,75,50,53,6,PE
-ust-kalmanka,52,83,68,84,17,6,RU
-bouna,9,-3,20,67,83,1,CI
-indramayu,-4,103,92,99,68,0,ID
-nanzhou,22,120,75,83,71,8,TW
-kudahuvadhoo,2,72,92,100,79,9,MV
-invermere,50,-116,56,59,33,0,CA
-dali,25,100,0,100,37,2,CN
-vangaindrano,-23,47,68,93,71,5,MG
-college,64,-147,1,87,6,4,US
-taltal,-25,-70,0,73,70,3,CL
-mbala,-8,31,76,78,67,3,ZM
-mettet,50,4,75,81,51,8,BE
+grand-lahou,5,-5,24,84,78,9,CI
+namie,37,140,40,93,41,3,JP
+bosaso,11,49,0,100,78,7,SO
+prince george,53,-122,90,94,32,2,CA
+makinsk,52,70,56,87,25,9,KZ
+nanakuli,21,-158,40,74,86,10,US
+atbasar,51,68,76,86,23,4,KZ
+fairbanks,64,-147,1,92,15,3,US
+dehloran,32,47,12,65,57,2,IR
+arroio grande,-32,-53,0,90,64,15,BR
+alabaster,33,-86,90,89,66,6,US
+ban nahin,18,104,0,42,65,5,LA
+fairview,40,-74,1,70,71,7,US
+yinchuan,38,106,0,68,30,4,CN
+dunedin,-45,170,20,77,50,4,NZ
+antofagasta,-23,-70,40,63,62,12,CL
+khangarh,29,71,40,73,71,4,PK
+atambua,-9,124,0,100,75,5,ID
+constantine,36,6,40,71,51,3,DZ
+champerico,16,-93,0,54,82,3,MX
+leshukonskoye,64,45,92,98,41,8,RU
+grindavik,63,-22,40,100,32,6,IS
+khudumelapye,-23,24,0,23,67,11,BW
+aykhal,65,111,80,78,9,3,RU
+yemelyanovo,56,92,40,92,14,5,RU
+ambilobe,-13,49,0,74,73,8,MG
+san juan,-31,-68,0,39,80,5,AR
+panna,24,80,0,80,70,2,IN
+saint-francois,46,3,90,81,48,4,FR
+qasigiannguit,68,-51,20,54,3,3,GL
+ouango,4,22,44,100,69,2,CD
+port lincoln,-34,135,44,93,63,12,AU
+ust-tsilma,65,52,92,97,39,11,RU
+santa fe do sul,-20,-50,56,62,85,4,BR
+jinchang,38,102,0,77,29,3,CN
+ust-kan,50,84,0,62,-10,1,RU
+puerto baquerizo moreno,0,-89,20,65,77,11,EC
+nerang,-27,153,90,56,73,12,AU
+porto tolle,44,12,75,100,55,3,IT
+jablah,35,35,0,38,59,4,SY
+petatlan,17,-101,75,62,89,9,MX
+iquitos,-3,-73,40,78,80,5,PE
+galle,29,-97,1,30,69,10,US
+sobolevo,54,31,88,95,42,11,RU
+burns lake,54,-125,92,100,34,2,CA
+maningrida,-12,134,32,88,80,12,AU
+angoche,-16,39,0,100,77,17,MZ
+quartucciu,39,9,0,72,62,4,IT
+elizabeth city,36,-76,40,68,78,16,US
+sernur,56,49,88,96,34,14,RU
+biloela,-24,150,88,72,66,4,AU
+sijunjung,0,100,92,100,69,2,ID
+sao joao de pirabas,0,-47,36,92,82,14,BR
+karmaskaly,54,56,90,74,30,13,RU
+jalu,29,21,0,67,64,7,LY
+virginia beach,36,-75,75,61,75,8,US
+lahan,26,86,8,83,60,2,NP
+lukaya,0,31,75,83,69,4,UG
+alice springs,-23,133,76,78,73,4,AU
+kralendijk,12,-68,0,99,83,23,BQ
+rio bueno,18,-77,20,74,84,16,JM
+krasnoarmeysk,56,38,90,100,39,6,RU
+hofn,64,-15,0,100,37,4,IS
+san lawrenz,36,14,40,100,71,8,MT
+koulikoro,12,-7,0,65,78,4,ML
+medicine hat,50,-110,90,60,41,10,CA
+inta,66,60,92,99,35,9,RU
+bandarbeyla,9,50,0,100,79,12,SO
+omboue,-1,9,92,100,78,4,GA
+college,64,-147,1,92,15,3,US
+aizpute,56,21,64,93,53,8,LV
+minbu,20,94,12,98,68,5,MM
+karangampel,-6,108,32,100,79,10,ID
+kampot,10,104,8,87,70,2,KH
+anzio,41,12,40,88,66,11,IT
+calama,-22,-68,0,6,77,24,CL
+altay,47,88,0,57,-10,1,CN
+breves,-1,-50,68,81,83,2,BR
+orlik,52,99,44,76,0,1,RU
+buta,2,24,8,98,71,2,CD
+gorontalo,0,123,24,92,73,1,ID
+ivybridge,50,-3,20,93,37,2,GB
+santa fe,-31,-60,0,56,71,10,AR
+pahalgam,34,75,75,100,42,17,IN
+christchurch,-43,172,8,54,57,8,NZ
+mnogovershinnyy,53,139,0,78,27,3,RU
+san vicente,13,-88,40,74,84,11,SV
+at-bashi,41,75,8,73,15,2,KG
+beringovskiy,63,179,88,100,32,3,RU
+chapais,49,-74,90,85,33,5,CA
+la tuque,47,-72,92,82,40,3,CA
+kavaratti,10,72,0,100,83,5,IN
+vomp,47,11,20,81,44,6,AT
+kalemie,-5,29,68,100,74,3,CD
+bilma,18,12,0,20,62,2,NE
+nehe,48,124,8,86,30,10,CN
+kaarina,60,22,32,100,39,8,FI
+saint-louis,47,7,0,100,46,3,CH
+bull savanna,17,-77,0,55,84,6,JM
+vilhena,-12,-60,32,74,78,10,BR
+sulangan,11,123,44,100,83,14,PH
+zhezkazgan,47,67,44,83,18,2,KZ
+acari,-6,-36,0,43,82,8,BR
+koumac,-20,164,64,76,73,12,NC
+pemba,-12,40,20,83,77,9,MZ
+hauterive,46,3,90,76,48,6,FR
+maine-soroa,13,12,0,45,66,3,NE
+pahrump,36,-115,1,24,77,12,US
+iskateley,67,53,92,97,33,10,RU
+pyay,18,95,32,91,72,6,MM
